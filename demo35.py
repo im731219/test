@@ -10,3 +10,5 @@ for l in l1:
 
 for key, count in counts.items():
     print("[%s] count=%d" % (key, count))
+for key, count in counts.items():
+    print("[%s] count=%d" % (key, count))
